@@ -9,7 +9,7 @@ The course includes computational applications of statistics and covers main top
 -- Numerical model selection and hypothesis testing
 -- EM algorithm and stochastic optimization (specifically genetic algorithms)
 
-* Labs:
+## Labs:
 
 The programming language of the course is R and the course offers at least one application for each topic.
 
